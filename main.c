@@ -9,4 +9,5 @@ int main()
 	uint8_t a[10];
 	fgets(a,10,ptr);
 	printf("%s",a);
+	int x=0;
 }
